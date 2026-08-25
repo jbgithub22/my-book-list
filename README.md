@@ -52,6 +52,35 @@ This repository is not a reading tracker. It is a map of ideas, concepts, and fr
 ![Investment](https://img.shields.io/badge/Investment-purple)
 ![Wealth Building](https://img.shields.io/badge/Wealth%20Building-red)
 
+---
+
+## Digital Fortress - by Dan Brown
+
+<img src="./images/digital-fortress.png" alt="Digital Fortress" width="300">
+
+**Author:** Dan Brown  
+**Publisher:** St. Martin's Press
+![Thriller](https://img.shields.io/badge/Thriller-red)
+![Tech Fiction](https://img.shields.io/badge/Tech%20Fiction-green)
+![Cryptography](https://img.shields.io/badge/Cryptography-blue)
+![Suspense](https://img.shields.io/badge/Suspense-purple)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-orange)
+
+---
+
+## The Templar Legacy - by Steve Berry
+
+<img src="./images/the-templar-legacy.jpg" alt="The Templar Legacy" width="300">
+
+**Author:** Steve Berry  
+**Publisher:** Ballantine Books  
+![Thriller](https://img.shields.io/badge/Thriller-red)
+![Historical Fiction](https://img.shields.io/badge/Historical%20Fiction-blue)
+![Mystery](https://img.shields.io/badge/Mystery-purple)
+![Adventure](https://img.shields.io/badge/Adventure-orange)
+
+---
+
 ## The Art of War - by Sun Tzu
 
 <img src="./images/art-of-war-capstone.jpg" alt="Fundamentals of Data Engineering" width="300">
