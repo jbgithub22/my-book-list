@@ -71,7 +71,7 @@ This repository is not a reading tracker. It is a map of ideas, concepts, and fr
 
 ## Tao Te Ching - by Lau Tzu
 
-<img src="./images/tao-te-ching-capstone.jpg" alt="Fundamentals of Data Engineering" width="180">
+<img src="./images/tao-te-ching-capstone.jpg" alt="Fundamentals of Data Engineering" width="800">
 
 **Author:** Lao Tzu  
 **Edition:** Capstone Classics  
