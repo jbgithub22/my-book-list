@@ -29,6 +29,21 @@ This repository is not a reading tracker. It is a map of ideas, concepts, and fr
 
 ---
 
+# Business
+
+---
+
+## The 30 Day MBA (Master in Business Administration)
+
+![Cover](images/the-30-day-mba.jpg)
+
+**Author:** Colin Barrow
+**Publisher:** Kohan Page
+
+---
+
+---
+
 # Strategy, Philosophy & Self Improvement
 
 ---
