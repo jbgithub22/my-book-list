@@ -18,19 +18,19 @@ This repository is not a reading tracker. It is a map of ideas, concepts, and fr
 
 ## Data Engineering & AI Systems - by J.Reis & Matth Housely
 
-<img src="./images/fundamentals-data-engineering.jpg" alt="Fundamentals of Data Engineering" width="180">
+<img src="./images/fundamentals-data-engineering.jpg" alt="Fundamentals of Data Engineering" width="800">
 
 **Authors:** Joe Reis, Matt Housley  
 **Publisher:** O'Reilly Media  
 ![Data Architecture](https://img.shields.io/badge/Data%20Architecture-purple)
 ![Data Engineering](https://img.shields.io/badge/Data%20Engineering-blue)
-![ETL](https://img.shields.io/badge/ETL-green)  
+![ETL](https://img.shields.io/badge/ETL-green)
 ![Big Data](https://img.shields.io/badge/Big%20Data-orange)
 ![Pipeline Design](https://img.shields.io/badge/Pipeline%20Design-red)
 
 ## The 30 Day MBA (Master in Business Administration) - by Colin Barrow
 
-<img src="./images/the-30-day-mba.jpg" alt="Fundamentals of Data Engineering" width="180">
+<img src="./images/the-30-day-mba.jpg" alt="Fundamentals of Data Engineering" width="800">
 
 **Author:** Colin Barrow  
 **Publisher:** Kohan Page  
@@ -42,7 +42,7 @@ This repository is not a reading tracker. It is a map of ideas, concepts, and fr
 
 ## Create A Secondary Income Stream - by Chua I-Min
 
-<img src="./images/create-a-secondary-income-stream.jpg" alt="Fundamentals of Data Engineering" width="180">
+<img src="./images/create-a-secondary-income-stream.jpg" alt="Fundamentals of Data Engineering" width="800">
 
 **Author:** Chua I-Min  
 **Coutesy of:** The Singapore Stock Exchange (SGX), Temasek Holding and GIC  
@@ -54,7 +54,7 @@ This repository is not a reading tracker. It is a map of ideas, concepts, and fr
 
 ## The Art of War - by Sun Tzu
 
-<img src="./images/art-of-war-capstone.jpg" alt="Fundamentals of Data Engineering" width="180">
+<img src="./images/art-of-war-capstone.jpg" alt="Fundamentals of Data Engineering" width="800">
 
 **Author:** Sun Tzu  
 **Edition:** Capstone Classics  
