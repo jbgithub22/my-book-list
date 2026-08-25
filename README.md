@@ -72,6 +72,8 @@ This repository is not a reading tracker. It is a map of ideas, concepts, and fr
 
 ---
 
+<!--
+
 # Image Guidelines
 
 For consistent GitHub rendering:
@@ -115,6 +117,8 @@ The repository should prioritize readability over maximum image resolution.
 
 ---
 
+-->
+
 # Future Additions
 
 Planned categories:
@@ -136,3 +140,4 @@ Planned categories:
 The goal is not to collect books.
 
 The goal is to build a mental model.
+
