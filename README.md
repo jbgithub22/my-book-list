@@ -18,43 +18,42 @@ This repository is not a reading tracker. It is a map of ideas, concepts, and fr
 
 ## Data Engineering & AI Systems
 
----
-
-## Fundamentals of Data Engineering
-
 <img src="./images/fundamentals-data-engineering.jpg" alt="Fundamentals of Data Engineering" width="180">
 
-**Authors:** Joe Reis, Matt Housley
-**Publisher:** O'Reilly Media
-
----
-
-# Business
-
----
+**Authors:** Joe Reis, Matt Housley  
+**Publisher:** O'Reilly Media  
+![Data Architecture](https://img.shields.io/badge/Data%20Architecture-purple)
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-blue)
+![ETL](https://img.shields.io/badge/ETL-green)  
+![Big Data](https://img.shields.io/badge/Big%20Data-orange)
+![Pipeline Design](https://img.shields.io/badge/Pipeline%20Design-red)
 
 ## The 30 Day MBA (Master in Business Administration)
 
 <img src="./images/the-30-day-mba.jpg" alt="Fundamentals of Data Engineering" width="180">
 
-**Author:** Colin Barrow
-**Publisher:** Kohan Page
-
----
-
----
-
-# Strategy, Philosophy & Self Improvement
-
----
+**Author:** Colin Barrow  
+**Publisher:** Kohan Page  
+![Business Strategy](https://img.shields.io/badge/Business%20Strategy-blue)
+![Finance](https://img.shields.io/badge/Finance-green)
+![Marketing](https://img.shields.io/badge/Marketing-orange)
+![Leadership](https://img.shields.io/badge/Leadership-purple)
+![Management](https://img.shields.io/badge/Management-red)
 
 ## The Art of War
 
 <img src="./images/art-of-war-capstone.jpg" alt="Fundamentals of Data Engineering" width="180">
 
-**Author:** Sun Tzu
-**Edition:** Capstone Classics
-**Introduction:** Tom Butler-Bowdon
+**Author:** Sun Tzu  
+**Edition:** Capstone Classics  
+**Introduction:** Tom Butler-Bowdon  
+![Strategy](https://img.shields.io/badge/Strategy-blue)
+![Military History](https://img.shields.io/badge/Military%20History-gray)
+![Leadership](https://img.shields.io/badge/Leadership-purple)
+![Philosophy](https://img.shields.io/badge/Philosophy-green)
+![Tactics](https://img.shields.io/badge/Tactics-orange)
+
+
 
 ---
 
@@ -62,9 +61,14 @@ This repository is not a reading tracker. It is a map of ideas, concepts, and fr
 
 <img src="./images/tao-te-ching-capstone.jpg" alt="Fundamentals of Data Engineering" width="180">
 
-**Author:** Lao Tzu
-**Edition:** Capstone Classics
-**Introduction:** Tom Butler-Bowdon
+**Author:** Lao Tzu  
+**Edition:** Capstone Classics  
+**Introduction:** Tom Butler-Bowdon  
+![Philosophy](https://img.shields.io/badge/Philosophy-green)
+![Wisdom](https://img.shields.io/badge/Wisdom-blue)
+![Spirituality](https://img.shields.io/badge/Spirituality-purple)
+![Daoism](https://img.shields.io/badge/Daoism-orange)
+![Classics](https://img.shields.io/badge/Classics-gray)
 
 ---
 
