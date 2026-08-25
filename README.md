@@ -40,6 +40,18 @@ This repository is not a reading tracker. It is a map of ideas, concepts, and fr
 ![Leadership](https://img.shields.io/badge/Leadership-purple)
 ![Management](https://img.shields.io/badge/Management-red)
 
+## Create A Secondary Income Stream
+
+<img src="./images/create-a-secondary-income-stream.jpg" alt="Fundamentals of Data Engineering" width="180">
+
+**Author:** Chua I-Min  
+**Coutesy of:** The Singapore Stock Exchange (SGX), Temasek Holding and GIC  
+![Personal Finance](https://img.shields.io/badge/Personal%20Finance-blue)
+![Entrepreneurship](https://img.shields.io/badge/Entrepreneurship-green)
+![Side Hustle](https://img.shields.io/badge/Side%20Hustle-orange)
+![Investment](https://img.shields.io/badge/Investment-purple)
+![Wealth Building](https://img.shields.io/badge/Wealth%20Building-red)
+
 ## The Art of War
 
 <img src="./images/art-of-war-capstone.jpg" alt="Fundamentals of Data Engineering" width="180">
