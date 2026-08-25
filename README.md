@@ -27,25 +27,6 @@ This repository is not a reading tracker. It is a map of ideas, concepts, and fr
 **Authors:** Joe Reis, Matt Housley
 **Publisher:** O'Reilly Media
 
-### Why this book matters
-
-Modern AI systems depend on reliable data foundations.
-
-This book covers the architecture, workflows, and principles required to build production-grade data systems.
-
-### Key Topics
-
-* Data architecture
-* Data pipelines
-* Storage systems
-* Data processing
-* Data governance
-* Reliability and scalability
-
-### Notes
-
-*Add personal notes here.*
-
 ---
 
 # Strategy, Philosophy & Self Improvement
@@ -60,22 +41,6 @@ This book covers the architecture, workflows, and principles required to build p
 **Edition:** Capstone Classics
 **Introduction:** Tom Butler-Bowdon
 
-### Why this book matters
-
-A classic study of strategy, positioning, competition, and decision-making.
-
-### Key Concepts
-
-* Understanding incentives
-* Strategic advantage
-* Preparation before conflict
-* Indirect approaches
-* Adapting to changing conditions
-
-### Notes
-
-*Add personal notes here.*
-
 ---
 
 ## Tao Te Ching
@@ -85,22 +50,6 @@ A classic study of strategy, positioning, competition, and decision-making.
 **Author:** Lao Tzu
 **Edition:** Capstone Classics
 **Introduction:** Tom Butler-Bowdon
-
-### Why this book matters
-
-A foundational work on balance, systems thinking, leadership, and understanding natural processes.
-
-### Key Concepts
-
-* Flow and adaptation
-* Simplicity
-* Restraint
-* Non-forcing approaches
-* Systems thinking
-
-### Notes
-
-*Add personal notes here.*
 
 ---
 
