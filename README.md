@@ -2,13 +2,13 @@
 
 A curated collection of books that shape my understanding of:
 
-* Data Science
-* Artificial Intelligence
-* Engineering Systems
-* Architecture & Design
-* Strategy
-* Philosophy
-* Personal Development
+![Data Science](https://img.shields.io/badge/Data%20Science-blue)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-purple)
+![Engineering Systems](https://img.shields.io/badge/Engineering%20Systems-green)
+![Architecture & Design](https://img.shields.io/badge/Architecture%20%26%20Design-orange)
+![Strategy](https://img.shields.io/badge/Strategy-red)
+![Philosophy](https://img.shields.io/badge/Philosophy-gray)
+![Personal Development](https://img.shields.io/badge/Personal%20Development-yellow)
 
 This repository is not a reading tracker. It is a map of ideas, concepts, and frameworks that influence how I think, design systems, and solve problems.
 
