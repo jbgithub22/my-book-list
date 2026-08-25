@@ -59,7 +59,7 @@ This repository is not a reading tracker. It is a map of ideas, concepts, and fr
 <img src="./images/digital-fortress.png" alt="Digital Fortress" width="300">
 
 **Author:** Dan Brown  
-**Publisher:** St. Martin's Press
+**Publisher:** St. Martin's Press  
 ![Thriller](https://img.shields.io/badge/Thriller-red)
 ![Tech Fiction](https://img.shields.io/badge/Tech%20Fiction-green)
 ![Cryptography](https://img.shields.io/badge/Cryptography-blue)
