@@ -22,7 +22,7 @@ This repository is not a reading tracker. It is a map of ideas, concepts, and fr
 
 ## Fundamentals of Data Engineering
 
-![Cover](images/fundamentals-data-engineering.jpg)
+<img src="./images/fundamentals-data-engineering.jpg" alt="Fundamentals of Data Engineering" width="180">
 
 **Authors:** Joe Reis, Matt Housley
 **Publisher:** O'Reilly Media
@@ -35,7 +35,7 @@ This repository is not a reading tracker. It is a map of ideas, concepts, and fr
 
 ## The 30 Day MBA (Master in Business Administration)
 
-![Cover](images/the-30-day-mba.jpg)
+<img src="./images/the-30-day-mba.jpg" alt="Fundamentals of Data Engineering" width="180">
 
 **Author:** Colin Barrow
 **Publisher:** Kohan Page
@@ -50,7 +50,7 @@ This repository is not a reading tracker. It is a map of ideas, concepts, and fr
 
 ## The Art of War
 
-![Cover](images/art-of-war-capstone.jpg)
+<img src="./images/art-of-war-capstone.jpg" alt="Fundamentals of Data Engineering" width="180">
 
 **Author:** Sun Tzu
 **Edition:** Capstone Classics
@@ -60,7 +60,7 @@ This repository is not a reading tracker. It is a map of ideas, concepts, and fr
 
 ## Tao Te Ching
 
-![Cover](images/tao-te-ching-capstone.jpg)
+<img src="./images/tao-te-ching-capstone.jpg" alt="Fundamentals of Data Engineering" width="180">
 
 **Author:** Lao Tzu
 **Edition:** Capstone Classics
