@@ -18,7 +18,7 @@ This repository is not a reading tracker. It is a map of ideas, concepts, and fr
 
 ## Data Engineering & AI Systems - by J.Reis & Matth Housely
 
-<img src="./images/fundamentals-data-engineering.jpg" alt="Fundamentals of Data Engineering" width="800">
+<img src="./images/fundamentals-data-engineering.jpg" alt="Fundamentals of Data Engineering" width="300">
 
 **Authors:** Joe Reis, Matt Housley  
 **Publisher:** O'Reilly Media  
@@ -30,7 +30,7 @@ This repository is not a reading tracker. It is a map of ideas, concepts, and fr
 
 ## The 30 Day MBA (Master in Business Administration) - by Colin Barrow
 
-<img src="./images/the-30-day-mba.jpg" alt="Fundamentals of Data Engineering" width="800">
+<img src="./images/the-30-day-mba.jpg" alt="Fundamentals of Data Engineering" width="300">
 
 **Author:** Colin Barrow  
 **Publisher:** Kohan Page  
@@ -42,7 +42,7 @@ This repository is not a reading tracker. It is a map of ideas, concepts, and fr
 
 ## Create A Secondary Income Stream - by Chua I-Min
 
-<img src="./images/create-a-secondary-income-stream.jpg" alt="Fundamentals of Data Engineering" width="800">
+<img src="./images/create-a-secondary-income-stream.jpg" alt="Fundamentals of Data Engineering" width="300">
 
 **Author:** Chua I-Min  
 **Coutesy of:** The Singapore Stock Exchange (SGX), Temasek Holding and GIC  
@@ -54,7 +54,7 @@ This repository is not a reading tracker. It is a map of ideas, concepts, and fr
 
 ## The Art of War - by Sun Tzu
 
-<img src="./images/art-of-war-capstone.jpg" alt="Fundamentals of Data Engineering" width="800">
+<img src="./images/art-of-war-capstone.jpg" alt="Fundamentals of Data Engineering" width="300">
 
 **Author:** Sun Tzu  
 **Edition:** Capstone Classics  
@@ -71,7 +71,7 @@ This repository is not a reading tracker. It is a map of ideas, concepts, and fr
 
 ## Tao Te Ching - by Lau Tzu
 
-<img src="./images/tao-te-ching-capstone.jpg" alt="Fundamentals of Data Engineering" width="800">
+<img src="./images/tao-te-ching-capstone.jpg" alt="Fundamentals of Data Engineering" width="300">
 
 **Author:** Lao Tzu  
 **Edition:** Capstone Classics  
