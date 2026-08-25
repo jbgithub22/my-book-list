@@ -16,7 +16,7 @@ This repository is not a reading tracker. It is a map of ideas, concepts, and fr
 
 # Books
 
-## Data Engineering & AI Systems
+## Data Engineering & AI Systems - by J.Reis & Matth Housely
 
 <img src="./images/fundamentals-data-engineering.jpg" alt="Fundamentals of Data Engineering" width="180">
 
@@ -28,7 +28,7 @@ This repository is not a reading tracker. It is a map of ideas, concepts, and fr
 ![Big Data](https://img.shields.io/badge/Big%20Data-orange)
 ![Pipeline Design](https://img.shields.io/badge/Pipeline%20Design-red)
 
-## The 30 Day MBA (Master in Business Administration)
+## The 30 Day MBA (Master in Business Administration) - by Colin Barrow
 
 <img src="./images/the-30-day-mba.jpg" alt="Fundamentals of Data Engineering" width="180">
 
@@ -40,7 +40,7 @@ This repository is not a reading tracker. It is a map of ideas, concepts, and fr
 ![Leadership](https://img.shields.io/badge/Leadership-purple)
 ![Management](https://img.shields.io/badge/Management-red)
 
-## Create A Secondary Income Stream
+## Create A Secondary Income Stream - by Chua I-Min
 
 <img src="./images/create-a-secondary-income-stream.jpg" alt="Fundamentals of Data Engineering" width="180">
 
@@ -52,7 +52,7 @@ This repository is not a reading tracker. It is a map of ideas, concepts, and fr
 ![Investment](https://img.shields.io/badge/Investment-purple)
 ![Wealth Building](https://img.shields.io/badge/Wealth%20Building-red)
 
-## The Art of War
+## The Art of War - by Sun Tzu
 
 <img src="./images/art-of-war-capstone.jpg" alt="Fundamentals of Data Engineering" width="180">
 
@@ -69,7 +69,7 @@ This repository is not a reading tracker. It is a map of ideas, concepts, and fr
 
 ---
 
-## Tao Te Ching
+## Tao Te Ching - by Lau Tzu
 
 <img src="./images/tao-te-ching-capstone.jpg" alt="Fundamentals of Data Engineering" width="180">
 
