@@ -53,6 +53,18 @@ This repository is not a reading tracker. It is a map of ideas, concepts, and fr
 ![Engineering Failures](https://img.shields.io/badge/Engineering%20Failures-orange)
 ![Disaster Analysis](https://img.shields.io/badge/Disaster%20Analysis-red)
 
+## Air Crash Investigation - National Geographic Channel
+
+<img src="./images/aircrashinvestigation.png" alt="Air Crash Investigation" width="300">
+
+**Narrator:** Jonathan Aris  
+**Network:** National Geographic Channel  
+![Aviation Safety](https://img.shields.io/badge/Aviation%20Safety-purple)
+![Investigation](https://img.shields.io/badge/Investigation-blue)
+![Black Box Analysis](https://img.shields.io/badge/Black%20Box%20Analysis-green)
+![Forensics](https://img.shields.io/badge/Forensics-orange)
+![Reconstruction](https://img.shields.io/badge/Reconstruction-red)
+
 ---
 
 # Books
