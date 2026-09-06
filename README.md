@@ -14,6 +14,47 @@ This repository is not a reading tracker. It is a map of ideas, concepts, and fr
 
 ---
 
+# TV Series
+
+
+## Junkyard Wars - Discovery Channel
+
+<img src="./images/junkyardwars.png" alt="Junkyard Wars" width="300">
+
+**Hosts:** Cathy Rogers, Tyler Harcott, Robert Llewellyn  
+**Network:** Discovery Channel  
+![Engineering](https://img.shields.io/badge/Engineering-purple)
+![Invention](https://img.shields.io/badge/Invention-blue)
+![Scrap Metal](https://img.shields.io/badge/Scrap%20Metal-green)
+![Competition](https://img.shields.io/badge/Competition-orange)
+![Mechanics](https://img.shields.io/badge/Mechanics-red)
+
+## MythBusters - Discovery Channel
+
+<img src="./images/mythbusters.png" alt="MythBusters" width="300">
+
+**Hosts:** Adam Savage, Jamie Hyneman  
+**Network:** Discovery Channel  
+![Science](https://img.shields.io/badge/Science-purple)
+![Special Effects](https://img.shields.io/badge/Special%20Effects-blue)
+![Urban Legends](https://img.shields.io/badge/Urban%20Legends-green)
+![Explosions](https://img.shields.io/badge/Explosions-orange)
+![Physics](https://img.shields.io/badge/Physics-red)
+
+## Seconds from Disaster - National Geographic Channel
+
+<img src="./images/secondsfromdisaster.png" alt="Seconds from Disaster" width="300">
+
+**Narrator:** Richard Clay  
+**Network:** National Geographic Channel  
+![Forensics](https://img.shields.io/badge/Forensics-purple)
+![Investigation](https://img.shields.io/badge/Investigation-blue)
+![CGI Reconstruction](https://img.shields.io/badge/CGI%20Reconstruction-green)
+![Engineering Failures](https://img.shields.io/badge/Engineering%20Failures-orange)
+![Disaster Analysis](https://img.shields.io/badge/Disaster%20Analysis-red)
+
+---
+
 # Books
 
 ## Data Engineering & AI Systems - by J.Reis & Matth Housely
