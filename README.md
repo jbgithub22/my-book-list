@@ -53,17 +53,39 @@ This repository is not a reading tracker. It is a map of ideas, concepts, and fr
 ![Engineering Failures](https://img.shields.io/badge/Engineering%20Failures-orange)
 ![Disaster Analysis](https://img.shields.io/badge/Disaster%20Analysis-red)
 
-## Air Crash Investigation - National Geographic Channel
+## Air Crash Investigation, Tenerife - National Geographic Channel
 
-<img src="./images/aircrashinvestigation.png" alt="Air Crash Investigation" width="300">
+<img src="./images/aircrashinvestigation-tenerife.png" alt="Air Crash Investigation - Tenerife Airport Disaster" width="300">
 
 **Narrator:** Jonathan Aris  
 **Network:** National Geographic Channel  
+
 ![Aviation Safety](https://img.shields.io/badge/Aviation%20Safety-purple)
 ![Investigation](https://img.shields.io/badge/Investigation-blue)
 ![Black Box Analysis](https://img.shields.io/badge/Black%20Box%20Analysis-green)
 ![Forensics](https://img.shields.io/badge/Forensics-orange)
-![Reconstruction](https://img.shields.io/badge/Reconstruction-red)
+![Reconstruction](https://img.shields.io/badge/Reconstruction-red)   
+![Communication Failure](https://img.shields.io/badge/Communication%20Failure-critical)
+![Assumption Cascade](https://img.shields.io/badge/Assumption%20Cascade-darkred)
+![Training / School Syndrome](https://img.shields.io/badge/Training%20%2F%20School%20Syndrome-yellow)
+
+---
+
+## Air Crash Investigation, KAL 801 - National Geographic Channel
+
+<img src="./images/aircrashinvestigation-KAL801.png" alt="Air Crash Investigation - Korean Air Flight 801" width="300">
+
+**Narrator:** Jonathan Aris  
+**Network:** National Geographic Channel  
+
+![Aviation Safety](https://img.shields.io/badge/Aviation%20Safety-purple)
+![Investigation](https://img.shields.io/badge/Investigation-blue)
+![Black Box Analysis](https://img.shields.io/badge/Black%20Box%20Analysis-green)
+![Forensics](https://img.shields.io/badge/Forensics-orange)
+![Reconstruction](https://img.shields.io/badge/Reconstruction-red)   
+![Authority Gradient](https://img.shields.io/badge/Authority%20Gradient-critical)
+![Seniority Culture](https://img.shields.io/badge/Seniority%20Culture-darkred)
+![Failure to Challenge](https://img.shields.io/badge/Failure%20to%20Challenge-yellow)
 
 ---
 
