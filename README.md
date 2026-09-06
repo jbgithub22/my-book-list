@@ -75,7 +75,7 @@ This repository is not a reading tracker. It is a map of ideas, concepts, and fr
 
 <img src="./images/aircrashinvestigation-KAL801.png" alt="Air Crash Investigation - Korean Air Flight 801" width="300">
 
-**Narrator:** Jonathan Aris  
+**Narrator:** Jonathan Aris   
 **Network:** National Geographic Channel  
 
 ![Aviation Safety](https://img.shields.io/badge/Aviation%20Safety-purple)
@@ -86,6 +86,24 @@ This repository is not a reading tracker. It is a map of ideas, concepts, and fr
 ![Authority Gradient](https://img.shields.io/badge/Authority%20Gradient-critical)
 ![Seniority Culture](https://img.shields.io/badge/Seniority%20Culture-darkred)
 ![Failure to Challenge](https://img.shields.io/badge/Failure%20to%20Challenge-yellow)
+
+---
+
+## Air Crash Investigation, JAL 123 - National Geographic Channel
+
+<img src="./images/aircrashinvestigation-jal123.png" alt="Air Crash Investigation - Japan Air Lines Flight 123" width="300">
+
+**Narrator:** Jonathan Aris  
+**Network:** National Geographic Channel  
+
+![Aviation Safety](https://img.shields.io/badge/Aviation%20Safety-purple)
+![Investigation](https://img.shields.io/badge/Investigation-blue)
+![Black Box Analysis](https://img.shields.io/badge/Black%20Box%20Analysis-green)
+![Forensics](https://img.shields.io/badge/Forensics-orange)
+![Reconstruction](https://img.shields.io/badge/Reconstruction-red)   
+![Structural Failure](https://img.shields.io/badge/Structural%20Failure-critical)
+![Hydraulic Failure](https://img.shields.io/badge/Hydraulic%20Failure-darkred)
+![Crew Heroism](https://img.shields.io/badge/Crew%20Heroism-yellow)
 
 ---
 
