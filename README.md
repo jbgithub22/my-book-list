@@ -93,7 +93,7 @@ This repository is not a reading tracker. It is a map of ideas, concepts, and fr
 
 <img src="./images/aircrashinvestigation-jal123.png" alt="Air Crash Investigation - Japan Air Lines Flight 123" width="300">
 
-**Narrator:** Jonathan Aris  
+**Narrator:** Jonathan Aris   
 **Network:** National Geographic Channel  
 
 ![Aviation Safety](https://img.shields.io/badge/Aviation%20Safety-purple)
