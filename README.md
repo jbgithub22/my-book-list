@@ -104,7 +104,7 @@ This repository is not a reading tracker. It is a map of ideas, concepts, and fr
 ![Structural Failure](https://img.shields.io/badge/Structural%20Failure-critical)
 ![Hydraulic Failure](https://img.shields.io/badge/Hydraulic%20Failure-darkred)
 ![Crew Heroism](https://img.shields.io/badge/Crew%20Heroism-yellow)
-
+![Political Failure](https://img.shields.io/badge/Political%20Failure-pink)
 ---
 
 # Books
